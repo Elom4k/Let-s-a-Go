@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title> First HTML Code </title>
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+
+  <h1>
+      First HTML Code
+   </h1>
+   
+   My time with Mr Robert has been very interesting and helpful for me.
+   I have learned alot in the short time with him including how to use Visual Studio Code
+   and some of the commands needed to use the Command Prompt and the Terminal. Overall, Mr. Robert has been 
+   a great mentor and I hope to learn more from his so I can improve my skils.
+ 
+    
+  
+  
+      
+      
+      
+<script src="script.js"></script>
+</body>
+</html>
